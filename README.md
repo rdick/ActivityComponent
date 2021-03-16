@@ -2,6 +2,7 @@
 A Sample Notes Component
 ![image](https://user-images.githubusercontent.com/62073529/111387385-3f856580-8673-11eb-8d2c-3bba29685676.png)
 
+##DO NOT DO THIS LOCATION STEP YET!!!!!!! -> IT WILL TAKE TOO LONG 
 Notes Location -> Mapbox API would be preferred if you are using one
 ![image](https://user-images.githubusercontent.com/62073529/111387993-3ba61300-8674-11eb-9093-512038832529.png)
 
