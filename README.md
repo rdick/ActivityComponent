@@ -1,15 +1,15 @@
-# ActivityComponent
+# PART 1 - ActivityComponent
 A Sample Notes Component
 ![image](https://user-images.githubusercontent.com/62073529/111387385-3f856580-8673-11eb-8d2c-3bba29685676.png)
 
-## DO NOT DO THIS LOCATION STEP YET!!!!!!! -> IT WILL TAKE TOO LONG 
+### DO NOT DO THIS LOCATION STEP YET!!!!!!! -> IT WILL TAKE TOO LONG 
 Notes Location -> Mapbox API would be preferred if you are using one
 ![image](https://user-images.githubusercontent.com/62073529/111387993-3ba61300-8674-11eb-9093-512038832529.png)
 
 Adding Users -> react select API preferred for choosing multiple users
 ![image](https://user-images.githubusercontent.com/62073529/111388039-4bbdf280-8674-11eb-98fa-4f99e6643086.png)
 
-
+# PART 2 - ActivityComponent Timeline
 When a sample note is created it goes on the timeline
 
 Once an Activity is filled out it populates the activity log
