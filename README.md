@@ -1,8 +1,8 @@
-# Live Already Built Example
+# Live Componet Version of Component that is Being Copied
 To see an example of the fully built component go to this website and sign up for a free trial.
 www.pipedrive.com
 
-# Simplet instructions
+## Simplet instructions
 
 Only build with hooks. 
 
