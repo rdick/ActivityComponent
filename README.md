@@ -10,12 +10,12 @@ No Redux.
 
 ## NPM Packages already used
 
-Icons: react-icons
-Fetch: axios
-dropdown: React-select
-forms: formik
- -> Example of how forms should be built in this video
-
+Icons: react-icons. 
+Fetch: axios. 
+dropdown: React-select. 
+forms: formik. 
+ -> Example of how forms should be built in this video.   
+  
 # PART 1 - ActivityComponent
 A Sample Notes Component
 ![image](https://user-images.githubusercontent.com/62073529/111387385-3f856580-8673-11eb-8d2c-3bba29685676.png)
