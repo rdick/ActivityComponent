@@ -1,7 +1,20 @@
+# Live Already Built Example
 To see an example of the fully built component go to this website and sign up for a free trial.
 www.pipedrive.com
 
-Only build with hooks. No Redux.
+# Simplet instructions
+
+Only build with hooks. 
+
+No Redux.
+
+## NPM Packages already used
+
+Icons: react-icons
+Fetch: axios
+dropdown: React-select
+forms: formik
+ -> Example of how forms should be built in this video
 
 # PART 1 - ActivityComponent
 A Sample Notes Component
