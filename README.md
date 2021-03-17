@@ -1,4 +1,7 @@
+To see an example of the fully built component go to this website and sign up for a free trial.
 www.pipedrive.com
+
+Only build with hooks. No Redux.
 
 # PART 1 - ActivityComponent
 A Sample Notes Component
